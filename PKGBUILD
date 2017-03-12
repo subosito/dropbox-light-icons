@@ -1,6 +1,7 @@
 # Maintainer: Alif Rachmawadi <code@subosito.com>
 
 pkgname=dropbox-light-icons-git
+_pkgname=dropbox-light-icons
 pkgver=20170312
 pkgrel=1
 pkgdesc="Dropbox light icons for dark panels"
